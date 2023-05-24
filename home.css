@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+
+#nav{
+
+    list-style-type:none;
+    text-decoration: none;
+    gap: 150px;
+    background-color: white;
+
+}
+.butt{
+    padding-left: 90px;
+}
+.section1{
+    background-color:rgb(255,249,242) ;
+    display: flex;
+    padding: 60px;
+    gap: 150px;
+}
+.section2{
+    display: flex;
+     padding-left: 70px;
+    padding-right: 70px; 
+    gap: 70px;
+    font-size: 14.5px;
+    
+} 
+.section3{
+    display: flex;
+    padding-left: 70px;
+    padding-right: 70px; 
+    gap: 90px;
+    font-size: 15px;
+    
+}
+.section4{
+    display: flex;
+    padding-left: 70px;
+    padding-right: 70px; 
+    font-size: 15px;
+    
+}
+.angle{
+     background: url(/image/Rectangle\ 55\ \(1\).png);
+    height: 250px; 
+    display: flex;
+    padding-left: 50%;
+    padding-right: 20%;
+    padding-top: 35px;
+    top: 1800px;
+    color: white;
+}  m
